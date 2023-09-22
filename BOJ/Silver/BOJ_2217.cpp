@@ -1,6 +1,6 @@
 // 2023.09.20
-// 2217: ·ÎÇÁ
-// ½Ç¹ö IV
+// 2217: ë¡œí”„
+// ì‹¤ë²„ IV
 // https://www.acmicpc.net/problem/2217
 
 #include <iostream>

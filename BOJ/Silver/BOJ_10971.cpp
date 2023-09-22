@@ -1,6 +1,6 @@
 // 2023.09.12
-// 10971: ¿ÜÆÇ¿ø ¼øÈ¸ 2
-// ½Ç¹ö II
+// 10971: ì™¸íŒì› ìˆœíšŒ 2
+// ì‹¤ë²„ II
 // https://www.acmicpc.net/problem/10971
 
 #include <iostream>

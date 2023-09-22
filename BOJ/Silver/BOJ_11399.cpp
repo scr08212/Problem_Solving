@@ -1,6 +1,6 @@
 // 2023.09.20
 // 11399: ATM
-// ½Ç¹ö IV
+// ì‹¤ë²„ IV
 // https://www.acmicpc.net/problem/11399
 
 #include <iostream>

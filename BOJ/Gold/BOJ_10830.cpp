@@ -1,6 +1,6 @@
 // 2023.09.22
-// 10830: Çà·Ä Á¦°ö
-// °ñµå IV
+// 10830: í–‰ë ¬ ì œê³±
+// ê³¨ë“œ IV
 // https://www.acmicpc.net/problem/10830
 
 #include <iostream>

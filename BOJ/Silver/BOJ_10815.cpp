@@ -1,6 +1,6 @@
 // 2023.09.20
-// 10815: ¼ıÀÚ Ä«µå
-// ½Ç¹ö V
+// 10815: ìˆ«ì ì¹´ë“œ
+// ì‹¤ë²„ V
 // https://www.acmicpc.net/problem/10815
 
 #include <iostream>

@@ -1,6 +1,6 @@
 // 2023.09.12
-// 2503: ¼ıÀÚ ¾ß±¸
-// ½Ç¹ö III
+// 2503: ìˆ«ì ì•¼êµ¬
+// ì‹¤ë²„ III
 // https://www.acmicpc.net/problem/2503
 
 #include <iostream>

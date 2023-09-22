@@ -1,6 +1,6 @@
 // 2023.09.12
-// 1436: ¿µÈ­°¨µ¶ ¼ò
-// ½Ç¹ö V
+// 1436: ì˜í™”ê°ë… ìˆŒ
+// ì‹¤ë²„ V
 // https://www.acmicpc.net/problem/1436
 
 #include <iostream>

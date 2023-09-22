@@ -1,6 +1,6 @@
 // 2023.09.14
 // 9663: N-Queen
-// °ñµå IV
+// ê³¨ë“œ IV
 // https://www.acmicpc.net/problem/9663
 
 #include <iostream>

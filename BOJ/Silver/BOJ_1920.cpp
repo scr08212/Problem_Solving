@@ -1,6 +1,6 @@
 // 2023.09.20
-// 1920: ¼ö Ã£±â
-// ½Ç¹ö IV
+// 1920: ìˆ˜ ì°¾ê¸°
+// ì‹¤ë²„ IV
 // https://www.acmicpc.net/problem/1920
 
 #include <iostream>

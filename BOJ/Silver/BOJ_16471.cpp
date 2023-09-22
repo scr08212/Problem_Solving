@@ -1,6 +1,6 @@
 // 2023.09.20
-// 16471: ÀÛÀº ¼ö ³»±â
-// ½Ç¹ö III
+// 16471: ì‘ì€ ìˆ˜ ë‚´ê¸°
+// ì‹¤ë²„ III
 // https://www.acmicpc.net/problem/16471
 
 #include <iostream>
